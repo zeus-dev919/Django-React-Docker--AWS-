@@ -1,2 +1,2 @@
 # Django-React
-Django + React + Docker + AWS
+Django + React + TypeScript + Docker + AWS
